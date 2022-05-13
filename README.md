@@ -59,7 +59,7 @@ python main.py KILL_ALL
 
 
 
-## Authors
+## Author
 
 - [@M3DUSA101](https://github.com/M3DUSA101)
 
